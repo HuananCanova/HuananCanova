@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huanan-canova-060155224/)
 
-## Tecnologies that I used
+## Technologies that I used
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-## Studying at the moment these tecnologies
+## Studying at the moment these technologies
 <div style="display: inline_block">
   <img align="center" alt="Angularjs" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
   <img align="center" alt="SpringBoot - Java" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
